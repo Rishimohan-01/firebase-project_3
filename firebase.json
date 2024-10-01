@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "target": "firebasepro",
-    "public": "build",
+    "public": "dist",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {

@@ -1,15 +1,5 @@
 {
   "projects": {
     "default": "fir-project-3-68794"
-  },
-  "targets": {
-    "fir-project-3-68794": {
-      "hosting": {
-        "firebasepro": [
-          "firebase-projects"
-        ]
-      }
-    }
-  },
-  "etags": {}
+  }
 }

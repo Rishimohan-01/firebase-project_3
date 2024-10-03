@@ -31,6 +31,7 @@ function SignUpForm() {
     <>
       <div className="form_container">
         <h2>Sign Up</h2>
+        <h2>Sign in</h2>
         <Formik
           initialValues={initialValues}
           validationSchema={signUp}

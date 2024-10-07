@@ -2,11 +2,12 @@
 import React from "react";
 import "./App.css";
 import Form from "./components/Form/Form";
+// import ContactForm from "./components/ContactForm/ContactForm";
 
 function App() {
   return (
     <>
-      <h1>FireBase</h1>
+      {/* <ContactForm /> */}
       <Form />
     </>
   );
